@@ -1,0 +1,13 @@
+/* src/App.css */
+.App {
+    font-family: Arial, sans-serif;
+}
+
+/* Add styles for horizontal lines if desired, or handle with border in JSX */
+hr {
+    border: none;
+    border-left: 2px solid green;
+    height: auto;
+    /* Adjust height as needed for vertical line */
+    margin: 0 10px;
+}
